@@ -18,7 +18,7 @@ Run the command to get inside nethunter root<br />
 Step 3<br />
 Change your user password (kali)<br />
 <pre>passwd kali </pre><br />
-Enter the password you need to set for your user kali(easy number or alphabates only 6 to 10 characters):<br /><br />
+Enter the password you need to set for your user kali(easy number or alphabets only 6 to 10 characters):<br /><br />
 Step 4<br />
 Exit from the root user and remember your password
 <pre> exit </pre><br /><br />
@@ -35,6 +35,7 @@ Cheers!!! Any problem let me know in the command box. Like and subscribe will be
 Tool : Kex Fix (kexf)<br />
 By	: EFX Tv<br />
 Git	: https://github.com/efxtv/kexf<br />
+Video 	: Soon
 >Description:
  Kex Fix by EFX Tv to fix issues with Nethunter. <br />
 I created this tool after long research and <br />
