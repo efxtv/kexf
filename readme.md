@@ -37,7 +37,7 @@ Cheers!!! Any problem let me know in the command box. Like and subscribe will be
 Tool : Kex Fix (kexf)<br />
 By	: EFX Tv<br />
 Git	: https://github.com/efxtv/kexf<br />
-Video 	: Soon
+Video 	: https://youtu.be/zTsnjaCxcMo <br />
 >Description:
  Kex Fix by EFX Tv to fix issues with Nethunter. <br />
 I created this tool after long research and <br />
