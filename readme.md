@@ -65,6 +65,11 @@ Buy me a coffee:  paypal.me/efxtv<br />
  [ok] Pinterest www.in.pinterest.com/efxtv/uk2blogger/ <br />
 
  [ok] Youtube www.youtube.com/channel/UCIWHXkNEHsedIz62jUJwAew <br />
+ 
+ ---------------------------------------
+India :  7503453371@ybl<br />
+<a href="https://paypal.me/efxtv"><img src="https://raw.githubusercontent.com/efxtv/efxtv/master/assets/donate-efx-tv.png" alt="Paypal" width="125" height="40"></a>
+---------------------------------------
 
 
 
